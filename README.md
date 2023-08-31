@@ -1,8 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h2 align="center">Hi, I'm Carolina</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="tofullstack" /> </p>
 
-<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif"> I’m currently learning **HTML**
+<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif">
+<img align="center"src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="60" width="80" target="_blank"> 🌼I’m currently learning HTML
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
