@@ -1,16 +1,14 @@
-### Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<h2 align="center">Hi, I'm Carolina</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="tofullstack" /> </p>
 
-<!--
-**tofullstack/tofullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif"> I’m currently learning **HTML**
 
-Here are some ideas to get you started:
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/carolina-aveiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-aveiro/" height="30" width="20" /></a>
+<a href = "mailto:caroleaveiro@gmail.com"><img align="center"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="80" target="_blank"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
