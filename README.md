@@ -11,7 +11,14 @@
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+#
+
+<h4 align="left">Basic/Learning</h4>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
 
 #
 
@@ -24,7 +31,7 @@
 #
 
 <details>
- <summary><h4>🍙 About me </h4></summary>
+ <summary><h4>🌍 About me </h4></summary>
  Hello, my name is Carolina, but you can call me Tofu. I’m currently pursuing a bachelor's degree in Software Engineering. Please be nice :) <br>
   私はカロリーと申しますが、私のことは豆腐と呼んでください。ソフトウェア工学 <3 <br>
   Olá, meu nome é Carolina, mas você pode me chamar de Tofu. Atualmente, estou cursando o bacharelado em Engenharia de Software. Por favor, seja gentil :) <br>
