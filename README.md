@@ -25,7 +25,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/carolina-aveiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-aveiro/" height="30" width="20" /></a>
-<a href = "mailto:caroleaveiro@gmail.com"><img align="center"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="80" target="_blank"></a>
+<a href = "mailto:caroleaveiro@gmail.com"><img align="center"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="80" target="_blank"></a>
 </p>
 
 #
