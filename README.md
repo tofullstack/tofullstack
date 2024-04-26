@@ -1,5 +1,5 @@
  <!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png) !-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Ola%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF.;Eu+sou+Carolina.)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Ola%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF.;Eu+sou+Carolina.)](https://git.io/typing-svg)!-->
 
 <img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif">
 
