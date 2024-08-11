@@ -29,11 +29,12 @@
 </p>
 
 #
+<!--
 <details>
  <summary><h4>🌍 About me </h4></summary>
  Hello, my name is Carolina, but you can call me Tofu. I’m currently pursuing a bachelor's degree in Software Engineering. Please be nice :) <br>
   私はカロリーと申しますが、私のことは豆腐と呼んでください。ソフトウェア工学 <3 <br>
-  Olá, meu nome é Carolina, mas você pode me chamar de Tofu. Atualmente, estou cursando o bacharelado em Engenharia de Software. Por favor, seja gentil :) <br>
+  Olá, meu nome é Carolina, mas você pode me chamar de Tofu. Atualmente, estou cursando o bacharelado em Engenharia de Software. Por favor, seja gentil :) <br> --!>
   <!--
   Watashi wa Carolina to moushimasu ga Watashi no koto ha Tofu to yondekudasai. 
 
