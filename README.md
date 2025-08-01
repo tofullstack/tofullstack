@@ -44,6 +44,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="ReactBootstrap" width="30px" style="padding-right:10px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH" width="30px" style="padding-right:10px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"  alt="Swagger" width="30px" style="padding-right:10px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  alt="intelliJ" width="30px" style="padding-right:10px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="PostgreSQL" width="30px" style="padding-right:10px"  />
+
+
  
 </div>
 
